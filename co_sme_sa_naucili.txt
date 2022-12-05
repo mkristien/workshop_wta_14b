@@ -1,1 +1,2 @@
 Základy GIT
+Stiahli sme si GIT Kraken
