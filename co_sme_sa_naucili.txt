@@ -1,2 +1,3 @@
 Základy GIT
 Stiahli sme si GIT Kraken
+Prihlásili sme sa na Github
