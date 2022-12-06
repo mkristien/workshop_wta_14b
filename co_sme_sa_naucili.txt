@@ -1,3 +1,5 @@
 1. co je GIT
 2. co je GIThub
 3. co je GitKraken
+4. fkcie PUSH and PULL
+5. ako vyriesit konfilkt
