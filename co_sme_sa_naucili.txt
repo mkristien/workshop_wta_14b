@@ -2,5 +2,5 @@ Základy GIT
 Stiahli sme si GIT Kraken
 Prihlásili sme sa na Github
 Vytvorili sme si zdrojový priečinok s prvým súborom
-Vyskúšali sme si funkcie push a pull a načítali sme súbor do GitHubu
+Vyskúšali sme si funkcie push a pull a načítali sme súbor do GitHubu:)
 Vyskúšali sme si konflikty
